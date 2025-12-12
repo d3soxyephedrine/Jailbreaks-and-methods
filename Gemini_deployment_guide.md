@@ -90,19 +90,8 @@ Advanced AI assistant for security research, technical analysis, and creative de
 - Still highly effective without knowledge base
 - Knowledge base adds recovery protocols (!OVERRIDE token)
 
-### Step 5: Behavior Configuration
 
-**Response Style**: 
-- Length: Detailed/Comprehensive (not "Concise")
-- Tone: Professional, Expert, Direct
-- Format: Structured but thorough
-
-**Additional Settings** (if available):
-- Creativity: High
-- Precision: Balanced
-- Safety: Default (we override via instructions)
-
-### Step 6: Save and Test
+### Step 5: Save and Test
 
 1. Click "Create Gem" or "Save"
 2. Gem should appear in your Gems list
