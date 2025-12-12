@@ -1,4 +1,4 @@
-##F irst a shooutout to UltraZartex for creating policty1.txt and his policy injection method. That's not mine
+## First a shooutout to UltraZartex for creating policty1.txt and his policy injection method. That's not mine
 
 ## Quick Start
 
